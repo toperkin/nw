@@ -13,7 +13,7 @@ nw
 Basically I just followed the directions in the primary source to get NWChem working quickly on my Windows 8 laptop.  For ease of use and 
 distribution, I've posted all this to github.
 
-To use download the .zip of this folder (lower RHS of this page).  Open the zip and copy the folders nwchem and nwrun to C:\.  To use 
+To use download the .zip of this folder (lower RHS of this page).  Open the zip and copy the folders nwchem and nwrun to '''C:\'''.  To use 
 simply click on nwRun.exe in the nwrun folder.  If you change the location of these folders you will have to edit the prepare.ini file in 
 the nwrun folder.
 
